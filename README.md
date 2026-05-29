@@ -1,5 +1,9 @@
 ﻿# sobirator-slivki
 
+## Краткое описание
+
+Специализированная синхронизация Google Sheets для проекта Slivki: переносит и обновляет данные между рабочими таблицами.
+
 ## Назначение
 
 https://docs.google.com/spreadsheets/d/1ON2AecFE5wGkayzgRmYO-XXwMd9mr5QFvzhKpUspV_Y/edit?gid=720529138#gid=720529138
